@@ -1,0 +1,65 @@
+Rami Shoula
+Computer Scientist
+
+
+Solutions oriented Computer Scientist with vast experience working across all software development phases. Adept in identifying and solving complex computer system and software issues. Passionate about elevating the user experience through thoughtful and innovative work processes. 
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * Portfolio: www.meehanjohnweb.net
+
+LANGUAGES
+  ★★★★☆ German
+  ★★★★★ English
+
+SKILLS
+  ★★★★★ SQL
+  ★★★★★ Python
+  ★★★★★ JavaScript
+  ★★★★★ Interpersonal Communication Skills
+  ★★★★★ Complex Problem Solving
+
+WORK EXPERIENCE
+  * October 2019 – May 2021
+    Software Developer  at Xtremez, Los Angeles
+      
+  Helped to provide structure for several internal systems. 
+  Built angular web applications. 
+  Designed and implemented front-end and back-end solutions. 
+  Aimed to achieve innovative solutions and results from concept to execution. 
+  Worked as a passionate and positive team member. 
+
+
+  * June 2018 – May 2019
+    Web Development Intern at Nova Inc. , Los Angeles
+      
+  Worked across the software development cycle to enhance codes for user tools. 
+  Worked in a team to design and engineer operating systems and databases. 
+  Utilized problem-solving skills and advanced knowledge to solve technical problems. 
+  Tested web applications, mobile apps, and networks to identify security weaknesses. 
+  Reviewed code and assessed the need for changes. 
+
+
+
+EDUCATION
+  * September 2014 – May 2018
+    UCLA, Los Angeles B.S. Computer Science
+  * September 2010 – May 2014
+    South Los Angeles, Los Angeles High School Diploma
+
+REFERENCES
+  * Abraham Nichols from UCLA
+    nichols.ab_r@ucla.org
+    310-443-2789
+  * Jennifer Healy from Xtremez
+    healy@xtremezla.com
+    310-588-3232
+  * Jacob Michaels from WD of Los Angeles 
+    mich_jacob77@wdofla.org
+    310-778-4377
+

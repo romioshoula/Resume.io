@@ -1,0 +1,226 @@
+Rami Wail Shoula
+
+Cairo
++201119778840
+
+I am a passionate voyager in the midst of an endless ocean of knowledge. Bachelor in Nanotechnology and Nanoelectronics Engineering. Game Developer at ITI Game Development Academy (GDA). Interests include computer programming, VLSI design, EDA tools, embedded systems, Internet of things (IoT), artificial intelligence (AI), mixed signals, IC design and video game development. Recently completed Deep Learning and Accelerated Computer Science Fundamentals specializations on Coursera. Currently pursuing Game Design and Development specialization on Coursera and have successfully completed the first course. 
+I am always keen on learning the latest cutting edge technologies and am constantly on a path of self-improvement.
+
+PERSONAL INFORMATION
+  Address: , Cairo, 
+  Nationality: 
+  Driving License: 
+  Hobbies: Judgement and Decision Making
+
+Strategic Project Management
+
+Leadership
+
+Entrepreneurship
+
+Communication
+
+Teamwork
+
+ACHIEVEMENTS
+
+British Council: CIPP Outstanding Achiever
+2010 - 2011
+
+Habitudes Leadership Training
+2014
+
+2nd place in Alabakera TV Show competition
+2016
+
+PROJECTS
+
+ASIC Flow: Optimization of Power, Area & Frequency of a designed RTL Code using DC Compiler Tool.
+
+Two-stage Operational Amplifier using CADENCE (Pre-Layout Simulation) 
+
+Audio Amplifier Circuit – Design and Implementation using Cadence (Pre-Layout Simulation)
+
+Analog to Digital Converter (ADC) using CADENCE (Pre-Layout Simulation)
+
+Modeling a 90-nm NMOS and PMOS With COMSOL
+
+Diamagnetically levitated electrostatic micromotor (DLEM) model and fabrication
+
+Temperature Sensor based on Light Transmittance inside an optical fiber using COMSOL
+
+NMOS Transistor Fabrication using SENTAURUS 
+
+Write and develop C++ EDA tool to calculate connectivity matrix, partition, perform floor-planning and measure merits of each path.
+
+Design RF / Mixed signals LNA in Cadence and ASITIC. Merits calculated for pre- and post- (DRC, LVS and PEX) layout simulation.
+
+Adv. MEMS simulation of electrostatic microvalve.
+
+SOCIAL PROFILES
+  * romioshoula@gmail.com: romioshoula@gmail.com
+  * s-romioshoula@zewailcity.edu.eg: s-romioshoula@zewailcity.edu.eg
+  * in/romioshoula: www.linkedin.com/in/romioshoula
+  * github.com/romioshoula: https://github.com/romioshoula
+  * facebook.com/rami.shoula: https://www.facebook.com/rami.shoula
+  * romioshoula.itch.io: romioshoula.itch.io
+  * artstation.com/romioshoula98: https://www.artstation.com/romioshoula98
+
+LANGUAGES
+  ★★★★★ English
+  ★★★★★ Arabic
+  ★★☆☆☆ French
+  ★☆☆☆☆ German
+  ★★★☆☆ Japanese
+
+SKILLS
+  ★★★★★ Git
+  ★★★★☆ Matlab/Simulink
+  ★★★★★ C/C++
+  ★★★★★ C#
+  ★★★★★ Unity
+  ★★★★★ Unreal Engine
+  ★★★★☆ System Verilog 
+  ★★★★★ Python
+  ★★★☆☆ VHDL
+  ★★★☆☆ HTML & CSS
+  ★★★★☆ Javascript
+  ★★☆☆☆ PHP
+  ★★★★★ Verilog A
+  ★★★★★ Cadence
+  ★★★★★ Microsoft Office
+
+WORK EXPERIENCE
+  * January 2020 – May 2020
+    Summer Internship at Zewail City of Science and Technology · Part-time , Giza, Egypt
+      Embedded Software and Hardware Internship:
+Implementing real satellite Terminal Software. GSE, MPLS, SISAP communication protocols implementation. Hardware implementation of RTEMS on Xilinx zynq-7000 FPGA board.
+
+  * January 2019 – December 2020
+    Junior Researcher at Zewail City of Science and Technology · Part-time  , Alexandria, Egypt
+      Design and implementation of T-shape microfluidic chip for use in micro-droplet and Janus particle formation. Simulation carried out on Cadence software. CAD tools utilized in modeling include SOLIDWORKS &amp; CORELDRAW software. Physical design laser-printed at Egypt Japan University (E-Just) for practical testing.
+
+  * November 2021 – Present
+    Game Developer at Information Technology Institute (ITI) · Full-time, Giza, Egypt
+      9 months professional Training Program Student. Game Programming Specialization ITI - Game Development Academy (GDA) - Intake I42. A product based program that will empower you to learn the required skills and knowledge in all aspects of Game Development from the basics to the advanced topics, from a real-world industry perspective to develop 2D, 3D and XR game applications to build a top-notch portfolio.
+
+
+EDUCATION
+  * November 2021 – Present
+    Information Technology Institute (ITI), Giza, Egypt 9 months Professional Training Program, Game Development 
+
+    Courses/Programs covered include: -
+
+   C++ Object-Oriented Programming &amp; Data Structures
+  Visual C# .NET
+  Game Design
+  UI &amp; UX Design
+  Computer Graphics &amp; Shaders
+  Unity3D
+  Unreal Engine
+  Game Network
+  Artificial Intelligence
+  Virtual Reality
+
+  * 2016 – 2021
+    University of Science and Technology at Zewail City (ZC: UST), Giza, Egypt B.S.C in Nanotechnology And Nano-Electronics Engineering
+
+    GPA around 3.0
+Double Focus concentration:
+
+  Nano-VLSI
+  Nano-Fabrication and MEMS
+
+  * 2015 – 2016
+    M.S.G British International School of Egypt, Cairo I.G.C.S.E. High School Degree
+
+    International General Certificate of Secondary Education.
+GPA 4.0. Magna cum laude. 
+
+INTERNSHIPS
+  * 2020 – 2021
+    Undergraduate Mems and Microfluidics Graduation Project With Excellent Grade at ZC:UST under supervision of Dr. Noha Gaber, Giza, Egypt
+
+    Design of novel electrostatically powered peristaltic micropump with a single chamber and NED cantilever structure. A thorough fabrication recipe was developed. NED cantilever structure provided a permanent solution for pull-in effect in electrostatic based systems. Wide range of applications as it can be used in precise drug delivery/dosing systems, developing cooling systems for electronic systems, such as System-on-a-Chip and embedded systems, as well as Lab-on-a-Chip and testing kits. ITAC-CFP - ITIDA Funding.
+  * 2019 – 2020
+    ASIC Design And Implementation Of 32 Bit Mac Unit at ZC:UST under supervision of Dr. Hassan Mostafa, Giza, Egypt
+
+    Cadence Virtuoso Simulation design and implementation of 32 bit MAC unit with pre- and post- layout merits (delay, power &amp;area)
+  * 2021 – 2021
+    Analog Mixed Signals 10-bit SAR ADC at ZC:UST under supervision of Dr. R. El-Damak, Giza, Egypt
+
+    Design of a 10 bit ADC for wearable brain computer interface system using the 90 nm generic PDK on Cadence Virtuoso with 1 V supply with a 32 kHz sampling rate. Implementation of rate Successive Approximation Register (SAR) ADC, Sample and hold circuit (SHA) and Digital to Analog Converter (DAC). The ENOB and SNR are measured to be 6.7, 42.22 dB respectively, giving a FOM = 2.85pJ /Conv − step.
+  * 2021 – 2021
+    Testing And Verification Of IP In UVM Environment at ZC:UST under supervision of Dr. Hassan Mostafa, Giza, Egypt
+
+    Implementation of Universal Verification Methodology (UVM) using UVM 1.2 package on EDA playground / System Verilog. Testing and verification of encrypted intellectual property (IP).
+  * October 2019
+    C++ Connectivity Matrix and Partitioning EDA Algorithm at ZC:UST under supervision of Amr Nabil Helmy, Giza, Egypt
+
+    Written a C++ program which partitions an even number of cells using Kernighan-Lin partitioning algorithm after obtaining the connectivity matrix of the cells. The input was a pin-oriented netlist, and the output clearly specified which cells belong to which block.
+  * November 2019
+    C++ EDA Functional Algorithmic Project at ZC:UST under supervision of Amr Nabil Helmy, Giza, Egypt
+
+    Written a C++ code to read netlist data from a text file, extract the different paths, calculate the maximum propagation delay for each node, do proper partioning, perform floor-planning and then find the longest path and determine the suitable clock period.
+
+EXTRA-CURRICULAR ACTIVITIES
+  * 2016 – 2017
+     IT, Media & Marketing committee head at EUROAVIA, Zewail City, Giza, Egypt
+  * 2016 – 2018
+    Committee member at IEEE, Zewail City, Giza, Egypt
+  * 2017 – 2018
+    Volunteer at Resala Charity Organization, Giza, Egypt
+
+    Volunteer for fundraising and aiding the charity organization in Cairo branch
+
+COURSES
+  * December 2021
+    Accelerated Computer Science Fundamentals Specialization, Coursera
+  * January 2022
+    Deep Learning Specialization, Coursera
+  * January 2022
+    Game Design and Development 1: 2D Shooter, Coursera
+
+GAME DEVELOPMENT EXPERIENCE
+  * OOP & Data Structures for Game Development, ITI GDA I42, Giza, Egypt, November 2021
+
+    Combination of C/C++ OOP projects :
+
+  Implement Magic box algorithm, and switch menu Console program
+  Employee Structure application using dynamic allocation , Line editor using pointers
+  Double linked list Stack, Queue binary search; bubble sort; selection sort
+  Traverse Binary Tree nodes using recursive functions
+  Design and Implement Class Complex, copy constructor to Class Stack
+  Operator overloading in Class Complex, Abstract Class pure virtual methods
+
+  * C++ Resizeable 2D maze generation using vectors, ITI GDA I42, Giza, Egypt, December 2021
+
+    C++ Build of Console program that randomly generates a resizeable 2D maze based on vectors. SFML implementation to allow the user to translate in the generated maze paths to reach a generated goal then choose to replay or close the program.   
+  * Computer Graphics using OpenGL, ITI GDA I42, Giza, Egypt, December 2021
+
+     C++ / OpenGL Implementation of Obj loader. Using glsl shader files to manipulate fragment and vertex shaders. Fractal (Mandelbrot) implementation. 3D simple maze GUI game using openGL utilizing created Mesh, Camera, Gameindow and Shader classes.  
+  * JavaScript and HTML5, ITI GDA I42, Giza, Egypt, December 2021
+
+    Created Space invaders web game. Phaser3 PC Web browser mini-jam game over the course of 3 days: Game concept -&gt; Pen &amp; Paper Prototype -&gt; Game Pitch Document -&gt; Game Assets &amp; Art Creation -&gt; Game programming and development -&gt; Game Script -&gt; Game Demo -&gt; Final Game (itch.io build).
+  * Visual C# .NET, ITI GDA I42, Giza, Egypt, January 2022
+
+    
+  Language-Integrated Query (LINQ) Operators: Restriction, Element, Set, Aggregate, Ordering, Partitioning, Projection, Quantifiers, and Grouping
+  Company Layoff system
+  Object Pooling Patterns to to create a simple Bullets Pool 
+  C# Full Examination UI system on C++ Data Structures concepts
+
+  * Basic and Advanced Unity, ITI GDA I42, Giza, Egypt, January 2022 – February 2022
+
+    
+  3D Urban City Game Scene, Prefabs, Prefab variants, Various Lighting
+  2D Platformer with idle, jump sprite animations and player movement
+  2D tilemap platformer with various patrolling enemies and traps 
+  3D reflection and light probes baking and post-processing VR Space room
+  Android touch screen UI functions, canvas 2D memory game
+  UI leaderboard, registration form, puzzle Game with random generation builds
+  Tic Tac Toe game with singleplayer, multiplayer, AI, Scoreboard network framework
+  Cannon ball game with line renderer, physics and Procedural mesh generation
+  IK constraint, blend tree, animation rigging, scriptable objects and events
+  Node Based Shaders Fundamentals with amplify
+

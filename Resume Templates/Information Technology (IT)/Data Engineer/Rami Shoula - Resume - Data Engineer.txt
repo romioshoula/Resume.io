@@ -1,0 +1,59 @@
+Rami Shoula
+Data Engineer
+
+
+Senior data engineer experienced in working across the different stages of the data pipeline, including acquisition, integration, ODS and real-time data marts. Adept in working quickly and efficiently in close collaboration with analytic, engineering and other stakeholders.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+LANGUAGES
+
+SKILLS
+  ★★★★★ Data Analysis
+  ★★★★★ ETL
+  ★★★★★ SQL
+  ★★★★★ Technical Documentation
+  ★★★★★ Troubleshooting
+  ★★★★★ Research & Development
+
+WORK EXPERIENCE
+  * August 2017 – Present
+    Data Engineer at Ellisen Group, Seattle
+      
+  Worked closely with stakeholders across departments to design, build and deploy various initiatives within the data platform. 
+  Developed, deployed and maintained data services using Rudderstack/Snowplow and Snowflake. 
+  Prepared and presented reports, analysis and presentations to various stakeholders including executives. 
+  Designed best practices to support continuous process automation for data ingestion and data pipeline workflows. 
+  Increased the effiency of data pipelines that processed over 100 TB of data daily.
+
+
+  * June 2013 – June 2017
+    Data Engineer at Kirk Enterprises, Seattle
+      
+  Designed and implemented data solutions best suited to deliver on our customer needs.
+  Provided excellent leadership by recommending the right technologies and solutions for a given use case. 
+  Completed software development life cycle experience including design, documentation, implementation, testing and deployment. 
+  Continually explored new technologies in an effort to always grow and uncover better ways to solve problems.
+  Developed an updated ETL System using Python 3.10. 
+
+
+  * June 2011 – May 2013
+    Database Administrator at Reckon Technologies, Seattle
+      
+  Provided technical support to resolve or assist in resolution of issues relating to database management systems.
+  Interacted with end users, opened support tickets with software vendors and identified and implemented solutions for software application issues. 
+  Worked closely with third parties and IT partners to resolve issues.
+  Recorded and documented the help desk request problem-solving processes. 
+
+
+
+EDUCATION
+  * September 2011 – May 2013
+    Pacific University, Forest Grove, OR Master of Science in Computer Science
+  * September 2008 – May 2011
+    Seattle University, Seattle Bachelor of Science in Computer Engineering
+

@@ -1,0 +1,65 @@
+Rami Shoula
+Software Engineer
+
+
+Experienced Software Engineer adept in offering cutting edge engineering solutions and effectively guiding developer teams. Bringing forth expertise in managing all aspects of the software development life cycle. Skilled in problem solving and executing software tasks from start to finish. 
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+LANGUAGES
+  ★★★★★ Dutch
+  ★★★★☆ English
+
+SKILLS
+  ★★★★★ Python
+  ★★★★★ JavaScript
+  ★★★★★ Complex Problem Solving
+  ★★★★★ Leadership Skills
+  ★★★★★ Cybersecurity
+
+WORK EXPERIENCE
+  * June 2016 – February 2021
+    Software Engineer at Revive Inc., Boston
+      
+  Define and develop guidelines to ensure code quality. 
+  Assisted developers and engineers in resolving key issues. 
+  Worked through the identification and resolution of technology issues. 
+  Collaborated with teams to deliver advancements and solutions. 
+  Worked to build and improve upon tools.
+  Mentored and lead junior developers. 
+
+
+  * June 2014 – April 2016
+    Junior Software Engineer at Untold Designs, Boston
+      
+  Provided optimal project support to development teams. 
+  Identified opportunities for product optimization. 
+  Built and maintained web application for the accounting platform. 
+  Participated in software design discussions. 
+  Problem solved with various stakeholders. 
+  Effectively managed individual priorities and deadlines. 
+  Improved software and delivered products under tight time constraints. 
+
+
+
+EDUCATION
+  * September 2014 – May 2016
+    Northeastern University, Boston Master of Computer Science
+  * September 2012 – May 2014
+    Boston College, Boston Bachelor of Software Engineering
+
+REFERENCES
+  * Dr. Manuel Rodrigue  from Boston College
+    rodrigue_mdr@boston.edu
+    617-456--4355
+  * Jessica Fortmyer from Revive Inc. 
+    fortmyer_jes@reviveinc.com
+    617-546-8890
+  * Abraham Schwartz from Revive Inc. 
+    abrha_msch@reviveinc.com
+    617-434-8442
+
